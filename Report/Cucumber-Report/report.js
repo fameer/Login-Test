@@ -171,21 +171,21 @@ formatter.match({
   "location": "LoginTest.I_Open_Chrome_Browser()"
 });
 formatter.result({
-  "duration": 6557522875,
+  "duration": 3515330869,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.I_go_to_the_Salesforce_application()"
 });
 formatter.result({
-  "duration": 2292409308,
+  "duration": 3742545886,
   "status": "passed"
 });
 formatter.match({
   "location": "LoginTest.I_maximize_my_window()"
 });
 formatter.result({
-  "duration": 427258493,
+  "duration": 89159683,
   "status": "passed"
 });
 formatter.match({
@@ -198,7 +198,7 @@ formatter.match({
   "location": "LoginTest.I_enter_username(String)"
 });
 formatter.result({
-  "duration": 1331332092,
+  "duration": 239310377,
   "status": "passed"
 });
 formatter.match({
@@ -211,7 +211,7 @@ formatter.match({
   "location": "LoginTest.I_enter_password(String)"
 });
 formatter.result({
-  "duration": 324433516,
+  "duration": 195832706,
   "status": "passed"
 });
 formatter.match({
@@ -224,7 +224,7 @@ formatter.match({
   "location": "AccountTest.I_click_the_button(String)"
 });
 formatter.result({
-  "duration": 1266101226,
+  "duration": 3356533460,
   "status": "passed"
 });
 formatter.match({
@@ -237,7 +237,7 @@ formatter.match({
   "location": "AccountTest.I_click_tab(String)"
 });
 formatter.result({
-  "duration": 1870925649,
+  "duration": 630205512,
   "status": "passed"
 });
 formatter.match({
@@ -250,7 +250,7 @@ formatter.match({
   "location": "AccountTest.I_am_on_home_page(String)"
 });
 formatter.result({
-  "duration": 357200609,
+  "duration": 50627182,
   "status": "passed"
 });
 formatter.match({
@@ -263,28 +263,28 @@ formatter.match({
   "location": "AccountTest.I_click_the_button(String)"
 });
 formatter.result({
-  "duration": 265539370,
+  "duration": 1484662601,
   "status": "passed"
 });
 formatter.match({
   "location": "AccountTest.I_enter_Account_Name_Field()"
 });
 formatter.result({
-  "duration": 621834556,
+  "duration": 49010411,
   "status": "passed"
 });
 formatter.match({
   "location": "AccountTest.I_click_the_save_button()"
 });
 formatter.result({
-  "duration": 1772096353,
+  "duration": 1193698075,
   "status": "passed"
 });
 formatter.match({
   "location": "AccountTest.I_should_see_the_Account_record()"
 });
 formatter.result({
-  "duration": 23472273,
+  "duration": 19261566,
   "status": "passed"
 });
 });
